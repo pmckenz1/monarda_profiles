@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   information about the genus but also species profiles with 
   herbarium specimen images. Under construction.
 baseurl: "/home" # the subpath of your site, e.g. /blog
-url: ""https://pmckenz1.github.io"" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://pmckenz1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: patrickmcken_z
 github_username:  pmckenz1
 
